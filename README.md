@@ -1,5 +1,10 @@
 # 💫 About Me:
-I'm a engineer student
+👋 Hi, I'm Jayalakshmi
+🎓 2nd Year B.E. Artificial Intelligence & Data Science
+💻 Learning C, Python, AI/ML & Web Development
+🚀 Building practical projects and solving programming problems
+🌱 Currently exploring Machine Learning, Data Science & Generative AI
+📍 India
 
 
 ## 🌐 Socials:
