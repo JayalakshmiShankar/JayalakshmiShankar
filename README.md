@@ -1,10 +1,11 @@
 # 💫 About Me:
-👋 Hi, I'm Jayalakshmi
-🎓 2nd Year B.E. Artificial Intelligence & Data Science
-💻 Learning C, Python, AI/ML & Web Development
-🚀 Building practical projects and solving programming problems
-🌱 Currently exploring Machine Learning, Data Science & Generative AI
-📍 India
+
+- 🎓 2nd Year B.E. Artificial Intelligence & Data Science
+- 💻 Learning C, Python, DSA, AI/ML & Web Development
+- 🧠 Building my programming and problem-solving foundation
+- 🚀 Exploring practical AI & Data Science projects
+- 🌱 Currently learning and improving every day
+- 📍 India
 
 
 ## 🌐 Socials:
